@@ -1,0 +1,6 @@
+framework module OLFoundation {
+  umbrella header "OLFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

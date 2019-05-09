@@ -1,0 +1,22 @@
+{
+  "name": "OLFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of OLFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/童帝/OLFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "童帝": "runze.crz@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/童帝/OLFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OLFoundation/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - OLFoundation (0.1.0)
+
+DEPENDENCIES:
+  - OLFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  OLFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OLFoundation: b29c696715539b7ca89068237488f3bc04870704
+
+PODFILE CHECKSUM: e0699592621bc3396d66a77332ee4dd02e7ae701
+
+COCOAPODS: 1.5.3
